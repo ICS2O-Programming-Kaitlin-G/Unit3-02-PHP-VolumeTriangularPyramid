@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- ICS2O-Unit3-01-PHP-AreaTrapezoid -->
+<!-- ICS2O-Unit3-02-PHP-VolumeTriangularPyramid -->
 <html lang="en-ca">
   <head>
     <meta charset="utf-8">
